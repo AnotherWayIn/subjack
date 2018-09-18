@@ -410,10 +410,22 @@
 		"cname": [
 			".azurewebsites.net",
 			".cloudapp.net",
+			".azure-api.net",
+			".azurehdinsight.net",
+			".azurecontainer.io",
+			".database.windows.net",
+			".azuredatalakestore.net",
+			".search.windows.net",
+			".azurecr.io",
+			".redis.cache.windows.net",
+			".servicebus.windows.net",
+			".visualstudio.com",
 			".trafficmanager.net",
 			".blob.core.windows.net",
 			".azure-api.net",
-			".azureedge.net"
+			".azureedge.net",
+			".cloudapp.azure.com"
+
 		],
 		"fingerprint": [],
 		"nxdomain": true
